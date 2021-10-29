@@ -14,15 +14,15 @@
             "id": "https://cssbue.github.io/MathExplorerPages/mathetest.html",
             "url": "https://cssbue.github.io/MathExplorerPages/mathetest.html",
             "title": "Mathetest",
-            "summary": "Funktion $f(x)=x^2$ ",
-            "content_html": "<p>Funktion $f(x)=x^2$</p>\n",
+            "summary": "Funktion $$f(x)=x^2$$ ",
+            "content_html": "<p>Funktion \n$$f(x)=x^2$$</p>\n",
             "author": {
                 "name": "Knut Büttner"
             },
             "tags": [
             ],
-            "date_published": "2021-10-30T01:05:36+02:00",
-            "date_modified": "2021-10-30T01:05:36+02:00"
+            "date_published": "2021-10-30T01:14:20+02:00",
+            "date_modified": "2021-10-30T01:14:20+02:00"
         },
         {
             "id": "https://cssbue.github.io/MathExplorerPages/ueberschrift.html",

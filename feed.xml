@@ -3,7 +3,7 @@
     <title>MathExplorer Documentation</title>
     <link href="https://cssbue.github.io/MathExplorerPages/feed.xml" rel="self" />
     <link href="https://cssbue.github.io/MathExplorerPages" />
-    <updated>2021-10-30T01:05:36+02:00</updated>
+    <updated>2021-10-30T01:14:20+02:00</updated>
     <author>
         <name>Knut Büttner</name>
     </author>
@@ -17,15 +17,16 @@
         <link href="https://cssbue.github.io/MathExplorerPages/mathetest.html"/>
         <id>https://cssbue.github.io/MathExplorerPages/mathetest.html</id>
 
-        <updated>2021-10-30T01:05:36+02:00</updated>
+        <updated>2021-10-30T01:14:20+02:00</updated>
             <summary>
                 <![CDATA[
-                    Funktion $f(x)=x^2$ 
+                    Funktion $$f(x)=x^2$$ 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Funktion $f(x)=x^2$</p>
+                <p>Funktion 
+$$f(x)=x^2$$</p>
 
             ]]>
         </content>
