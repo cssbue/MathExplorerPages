@@ -5,9 +5,24 @@
     "home_page_url": "https://cssbue.github.io/MathExplorerPages",
     "feed_url": "https://cssbue.github.io/MathExplorerPages/feed.json",
     "user_comment": "",
+    "icon": "https://cssbue.github.io/MathExplorerPages/media/website/logo1.png",
     "author": {
-        "name": "Buettner"
+        "name": "Knut Büttner"
     },
     "items": [
+        {
+            "id": "https://cssbue.github.io/MathExplorerPages/polynomfunktion-3-grades.html",
+            "url": "https://cssbue.github.io/MathExplorerPages/polynomfunktion-3-grades.html",
+            "title": "Polynomfunktion 3. Grades",
+            "summary": "Achtung, was passiert hier? # Testüberschrift 😀 ",
+            "content_html": "<p class=\"msg msg--warning\">Achtung, was passiert hier?</p>\n<p class=\"msg msg--warning\"># Testüberschrift</p>\n<p>😀</p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Knut Büttner"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-30T00:54:26+02:00",
+            "date_modified": "2021-10-30T00:54:26+02:00"
+        }
     ]
 }

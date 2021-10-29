@@ -3,10 +3,35 @@
     <title>MathExplorer Documentation</title>
     <link href="https://cssbue.github.io/MathExplorerPages/feed.xml" rel="self" />
     <link href="https://cssbue.github.io/MathExplorerPages" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2021-10-30T00:54:26+02:00</updated>
     <author>
-        <name>Buettner</name>
+        <name>Knut Büttner</name>
     </author>
     <id>https://cssbue.github.io/MathExplorerPages</id>
 
+    <entry>
+        <title>Polynomfunktion 3. Grades</title>
+        <author>
+            <name>Knut Büttner</name>
+        </author>
+        <link href="https://cssbue.github.io/MathExplorerPages/polynomfunktion-3-grades.html"/>
+        <id>https://cssbue.github.io/MathExplorerPages/polynomfunktion-3-grades.html</id>
+
+        <updated>2021-10-30T00:54:26+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Achtung, was passiert hier? # Testüberschrift 😀 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--warning">Achtung, was passiert hier?</p>
+<p class="msg msg--warning"># Testüberschrift</p>
+<p>😀</p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
