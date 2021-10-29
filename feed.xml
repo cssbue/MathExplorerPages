@@ -3,12 +3,64 @@
     <title>MathExplorer Documentation</title>
     <link href="https://cssbue.github.io/MathExplorerPages/feed.xml" rel="self" />
     <link href="https://cssbue.github.io/MathExplorerPages" />
-    <updated>2021-10-30T00:54:26+02:00</updated>
+    <updated>2021-10-30T01:05:36+02:00</updated>
     <author>
         <name>Knut Büttner</name>
     </author>
     <id>https://cssbue.github.io/MathExplorerPages</id>
 
+    <entry>
+        <title>Mathetest</title>
+        <author>
+            <name>Knut Büttner</name>
+        </author>
+        <link href="https://cssbue.github.io/MathExplorerPages/mathetest.html"/>
+        <id>https://cssbue.github.io/MathExplorerPages/mathetest.html</id>
+
+        <updated>2021-10-30T01:05:36+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Funktion $f(x)=x^2$ 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Funktion $f(x)=x^2$</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Überschrift</title>
+        <author>
+            <name>Knut Büttner</name>
+        </author>
+        <link href="https://cssbue.github.io/MathExplorerPages/ueberschrift.html"/>
+        <id>https://cssbue.github.io/MathExplorerPages/ueberschrift.html</id>
+
+        <updated>2021-10-30T01:04:10+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Bilddiagonale: &lt;= 80” Bildschirm Auflösung: &lt;= 3840 x 2160 UHD Helligkeit: &lt;= 400 cd/qm Panzerglas TOUCH SYSTEM: Stift und Finger Erkennung, mindestens 10 Eingaben simultan möglich Signal Weiterleitung (HDMI, USB) der Eingaben an einen externen PC (Windows 10) MiraCast – Kompatibilität notwendig Test2 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Bilddiagonale: &lt;= 80” 
+Bildschirm Auflösung: &lt;= 3840 x 2160 UHD
+Helligkeit: &lt;= 400 cd/qm
+Panzerglas</p>
+<p>TOUCH SYSTEM:</p>
+<ul>
+<li>Stift und Finger Erkennung, mindestens 10 Eingaben simultan möglich</li>
+<li>Signal Weiterleitung (HDMI, USB) der Eingaben an einen externen PC (Windows 10)</li>
+<li><strong>MiraCast – Kompatibilität notwendig</strong></li>
+<li>Test2</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Polynomfunktion 3. Grades</title>
         <author>
