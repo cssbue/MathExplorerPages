@@ -3,7 +3,7 @@
     <title>MathExplorer Documentation</title>
     <link href="https://cssbue.github.io/MathExplorerPages/feed.xml" rel="self" />
     <link href="https://cssbue.github.io/MathExplorerPages" />
-    <updated>2021-10-30T01:14:20+02:00</updated>
+    <updated>2021-10-30T01:30:46+02:00</updated>
     <author>
         <name>Knut Büttner</name>
     </author>
@@ -16,8 +16,10 @@
         </author>
         <link href="https://cssbue.github.io/MathExplorerPages/mathetest.html"/>
         <id>https://cssbue.github.io/MathExplorerPages/mathetest.html</id>
+            <category term="Polynomfunktion"/>
+            <category term="Bestimmtes Integral"/>
 
-        <updated>2021-10-30T01:14:20+02:00</updated>
+        <updated>2021-10-30T01:30:46+02:00</updated>
             <summary>
                 <![CDATA[
                     Funktion $$f(x)=x^2$$ 
