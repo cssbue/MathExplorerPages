@@ -3,7 +3,7 @@
     <title>MathExplorer Documentation</title>
     <link href="https://cssbue.github.io/MathExplorerPages/feed.xml" rel="self" />
     <link href="https://cssbue.github.io/MathExplorerPages" />
-    <updated>2021-10-30T01:52:09+02:00</updated>
+    <updated>2021-10-30T02:08:23+02:00</updated>
     <author>
         <name>Knut Büttner</name>
     </author>
@@ -17,14 +17,20 @@
         <link href="https://cssbue.github.io/MathExplorerPages/blistapad.html"/>
         <id>https://cssbue.github.io/MathExplorerPages/blistapad.html</id>
 
-        <updated>2021-10-30T01:52:09+02:00</updated>
-            <summary></summary>
+        <updated>2021-10-30T02:08:23+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Test Test 
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <iframe loading="lazy"   src="https://yopad.eu/p/test"
-  style="width:100%; height:300px;"
-    
-></iframe>
+                <iframe loading="lazy"   src="https://pad.blista.study/p/test" 
+>Test</iframe>
+
+<iframe loading="lazy"   src="https://yopad.eu/p/test" 
+>Test</iframe>
+
             ]]>
         </content>
     </entry>
