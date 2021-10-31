@@ -45,7 +45,7 @@
             "url": "https://cssbue.github.io/MathExplorerPages/funktionswerte-einer-polynomfunktion.html",
             "title": "Funktionswerte einer Polynomfunktion",
             "summary": "Gegeben ist die Funktion $$f(x) =x^3 -4x^2 +4x$$ Aufgabe: Funktionswerte f(1), f(2), f(3), … = ? Eingabe: f(x):=x^3 -4x^2 +4x Eingabe: STRG+ALT+i (Einfgabefeld leeren) Eingabe: f(1) Ausgabe: 1 Eingabe: STRG+ALT+i oder UMSCHALT+TAB Eingabe: f(2) Ausgabe: 0 ",
-            "content_html": "<p>Gegeben ist die Funktion $$f(x) =x^3 -4x^2 +4x$$\nAufgabe:    Funktionswerte f(1), f(2), f(3), … = ?\nEingabe:    f(x):=x^3 -4x^2 +4x\nEingabe:    STRG+ALT+i (Einfgabefeld leeren)\nEingabe:    f(1)\nAusgabe:    1\nEingabe:    STRG+ALT+i  oder  UMSCHALT+TAB\nEingabe:    f(2)\nAusgabe:    0</p>\n",
+            "content_html": "<p>Gegeben ist die Funktion $$f(x) =x^3 -4x^2 +4x$$</p>\n<p>Aufgabe:    Funktionswerte f(1), f(2), f(3), … = ?</p>\n<p>Eingabe:    f(x):=x^3 -4x^2 +4x</p>\n<p>Eingabe:    STRG+ALT+i (Einfgabefeld leeren)</p>\n<p>Eingabe:    f(1)</p>\n<p>Ausgabe:    1</p>\n<p>Eingabe:    STRG+ALT+i  oder  UMSCHALT+TAB</p>\n<p>Eingabe:    f(2)</p>\n<p>Ausgabe:    0</p>\n",
             "author": {
                 "name": "Knut Büttner"
             },
@@ -53,7 +53,7 @@
                    "MathExplorer"
             ],
             "date_published": "2021-10-31T21:34:49+01:00",
-            "date_modified": "2021-10-31T21:55:22+01:00"
+            "date_modified": "2021-10-31T22:00:19+01:00"
         },
         {
             "id": "https://cssbue.github.io/MathExplorerPages/elementare-steuerbefehle-im-mathexplorer.html",

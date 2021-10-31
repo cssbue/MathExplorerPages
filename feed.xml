@@ -3,7 +3,7 @@
     <title>MathExplorer Documentation</title>
     <link href="https://cssbue.github.io/MathExplorerPages/feed.xml" rel="self" />
     <link href="https://cssbue.github.io/MathExplorerPages" />
-    <updated>2021-10-31T21:55:31+01:00</updated>
+    <updated>2021-10-31T22:00:19+01:00</updated>
     <author>
         <name>Knut Büttner</name>
     </author>
@@ -79,7 +79,7 @@ $$\vec{e} = (0,5; 0,6; 0,3)$$</p>
         <id>https://cssbue.github.io/MathExplorerPages/funktionswerte-einer-polynomfunktion.html</id>
             <category term="MathExplorer"/>
 
-        <updated>2021-10-31T21:55:22+01:00</updated>
+        <updated>2021-10-31T22:00:19+01:00</updated>
             <summary>
                 <![CDATA[
                     Gegeben ist die Funktion $$f(x) =x^3 -4x^2 +4x$$ Aufgabe: Funktionswerte f(1), f(2), f(3), … = ? Eingabe: f(x):=x^3 -4x^2 +4x Eingabe: STRG+ALT+i (Einfgabefeld leeren) Eingabe: f(1) Ausgabe: 1 Eingabe: STRG+ALT+i oder UMSCHALT+TAB Eingabe: f(2) Ausgabe: 0 
@@ -87,15 +87,15 @@ $$\vec{e} = (0,5; 0,6; 0,3)$$</p>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Gegeben ist die Funktion $$f(x) =x^3 -4x^2 +4x$$
-Aufgabe:    Funktionswerte f(1), f(2), f(3), … = ?
-Eingabe:    f(x):=x^3 -4x^2 +4x
-Eingabe:    STRG+ALT+i (Einfgabefeld leeren)
-Eingabe:    f(1)
-Ausgabe:    1
-Eingabe:    STRG+ALT+i  oder  UMSCHALT+TAB
-Eingabe:    f(2)
-Ausgabe:    0</p>
+                <p>Gegeben ist die Funktion $$f(x) =x^3 -4x^2 +4x$$</p>
+<p>Aufgabe:    Funktionswerte f(1), f(2), f(3), … = ?</p>
+<p>Eingabe:    f(x):=x^3 -4x^2 +4x</p>
+<p>Eingabe:    STRG+ALT+i (Einfgabefeld leeren)</p>
+<p>Eingabe:    f(1)</p>
+<p>Ausgabe:    1</p>
+<p>Eingabe:    STRG+ALT+i  oder  UMSCHALT+TAB</p>
+<p>Eingabe:    f(2)</p>
+<p>Ausgabe:    0</p>
 
             ]]>
         </content>
