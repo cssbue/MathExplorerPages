@@ -3,114 +3,143 @@
     <title>MathExplorer Documentation</title>
     <link href="https://cssbue.github.io/MathExplorerPages/feed.xml" rel="self" />
     <link href="https://cssbue.github.io/MathExplorerPages" />
-    <updated>2021-10-30T02:08:23+02:00</updated>
+    <updated>2021-10-31T21:55:31+01:00</updated>
     <author>
         <name>Knut Büttner</name>
     </author>
     <id>https://cssbue.github.io/MathExplorerPages</id>
 
     <entry>
-        <title>blistaPad</title>
+        <title> Der Betrag eines Vektors</title>
         <author>
             <name>Knut Büttner</name>
         </author>
-        <link href="https://cssbue.github.io/MathExplorerPages/blistapad.html"/>
-        <id>https://cssbue.github.io/MathExplorerPages/blistapad.html</id>
+        <link href="https://cssbue.github.io/MathExplorerPages/der-betrag-eines-vektors.html"/>
+        <id>https://cssbue.github.io/MathExplorerPages/der-betrag-eines-vektors.html</id>
+            <category term="Lineare Algebra"/>
 
-        <updated>2021-10-30T02:08:23+02:00</updated>
+        <updated>2021-10-31T21:54:47+01:00</updated>
             <summary>
                 <![CDATA[
-                    Test Test 
+                    Einstieg Wie lang ist die Raumdiagonale des Unterrichtsraums? Ihr könnt diese Länge aus den bereits bekannten Abmessungen des Raumes berechnen. Einen Vektor kann man sich als eine Verschiebung vorstellen. Die LÄNGE der Strecke, um die verschoben wird, heißt BETRAG des Vektors. Der Betrag eines Vektors&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <iframe loading="lazy"   src="https://pad.blista.study/p/test" 
->Test</iframe>
-
-<iframe loading="lazy"   src="https://yopad.eu/p/test" 
->Test</iframe>
+                <h1 id="einstieg">Einstieg</h1>
+<p>Wie lang ist die Raumdiagonale des Unterrichtsraums? Ihr könnt diese Länge aus den bereits bekannten Abmessungen des Raumes berechnen.</p>
+<h1 id="der-betrag-eines-vektors">Der Betrag eines Vektors</h1>
+<p>Einen Vektor kann man sich als eine Verschiebung vorstellen. Die LÄNGE der Strecke, um die verschoben wird, heißt BETRAG des Vektors. Der Betrag eines Vektors ist also die Länge seines Vektorpfeils. 
+Der Betrag eines Vektors $$\vec{v}$$ wird als $$|\vec{v}|$$ geschrieben.
+Ein Vektor mit Betrag 1 wird als EINHEITSVEKTOR bezeichnet.
+Man kann den Betrag eines Vektors mit Hilfe des Satzes von Pythagoras aus den Koordinaten des Vektors berechnen:
+Für einen zweidimensionalen Vektor $$\vec{v} = (x; y)$$ gilt
+$$|\vec{v}| = \sqrt{x^2 +y^2}$$
+Für einen dreidimensionalen Vektor $$\vec{v} = (x; y; z)$$ gilt
+$$|\vec{v}| = \sqrt{x^2 +y^2 +z^2}$$</p>
+<h2 id="aufgabe-1--beträge-berechnen">Aufgabe 1 — Beträge berechnen</h2>
+<p>Berechne die Beträge der folgenden Vektoren.
+$$\vec{a} = (3; 4)$$
+$$\vec{b} = (4; -3)$$
+$$\vec{c} = \vec{0}$$
+$$\vec{d} = (1; 1; 1)$$
+$$\vec{e} = (0,5; 0,6; 0,3)$$</p>
 
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Mathetest</title>
+        <title>Rechnerfunktionen an Beispielen</title>
         <author>
             <name>Knut Büttner</name>
         </author>
-        <link href="https://cssbue.github.io/MathExplorerPages/mathetest.html"/>
-        <id>https://cssbue.github.io/MathExplorerPages/mathetest.html</id>
-            <category term="Polynomfunktion"/>
-            <category term="Bestimmtes Integral"/>
+        <link href="https://cssbue.github.io/MathExplorerPages/rechnerfunktionen-an-beispielen.html"/>
+        <id>https://cssbue.github.io/MathExplorerPages/rechnerfunktionen-an-beispielen.html</id>
+            <category term="MathExplorer"/>
 
-        <updated>2021-10-30T01:30:46+02:00</updated>
+        <updated>2021-10-31T21:55:15+01:00</updated>
             <summary>
                 <![CDATA[
-                    Funktion $$f(x)=x^2$$ 
+                    Im folgenden wird beschrieben, wie mathematische Funktionen mit dem Rechner ausgewertet werden können. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Funktion 
-$$f(x)=x^2$$</p>
+                <p>Im folgenden wird beschrieben, wie mathematische Funktionen mit dem Rechner ausgewertet werden können.</p>
 
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Überschrift</title>
+        <title>Funktionswerte einer Polynomfunktion</title>
         <author>
             <name>Knut Büttner</name>
         </author>
-        <link href="https://cssbue.github.io/MathExplorerPages/ueberschrift.html"/>
-        <id>https://cssbue.github.io/MathExplorerPages/ueberschrift.html</id>
+        <link href="https://cssbue.github.io/MathExplorerPages/funktionswerte-einer-polynomfunktion.html"/>
+        <id>https://cssbue.github.io/MathExplorerPages/funktionswerte-einer-polynomfunktion.html</id>
+            <category term="MathExplorer"/>
 
-        <updated>2021-10-30T01:04:10+02:00</updated>
+        <updated>2021-10-31T21:55:22+01:00</updated>
             <summary>
                 <![CDATA[
-                    Bilddiagonale: &lt;= 80” Bildschirm Auflösung: &lt;= 3840 x 2160 UHD Helligkeit: &lt;= 400 cd/qm Panzerglas TOUCH SYSTEM: Stift und Finger Erkennung, mindestens 10 Eingaben simultan möglich Signal Weiterleitung (HDMI, USB) der Eingaben an einen externen PC (Windows 10) MiraCast – Kompatibilität notwendig Test2 
+                    Gegeben ist die Funktion $$f(x) =x^3 -4x^2 +4x$$ Aufgabe: Funktionswerte f(1), f(2), f(3), … = ? Eingabe: f(x):=x^3 -4x^2 +4x Eingabe: STRG+ALT+i (Einfgabefeld leeren) Eingabe: f(1) Ausgabe: 1 Eingabe: STRG+ALT+i oder UMSCHALT+TAB Eingabe: f(2) Ausgabe: 0 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Bilddiagonale: &lt;= 80” 
-Bildschirm Auflösung: &lt;= 3840 x 2160 UHD
-Helligkeit: &lt;= 400 cd/qm
-Panzerglas</p>
-<p>TOUCH SYSTEM:</p>
+                <p>Gegeben ist die Funktion $$f(x) =x^3 -4x^2 +4x$$
+Aufgabe:    Funktionswerte f(1), f(2), f(3), … = ?
+Eingabe:    f(x):=x^3 -4x^2 +4x
+Eingabe:    STRG+ALT+i (Einfgabefeld leeren)
+Eingabe:    f(1)
+Ausgabe:    1
+Eingabe:    STRG+ALT+i  oder  UMSCHALT+TAB
+Eingabe:    f(2)
+Ausgabe:    0</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Elementare Steuerbefehle im MathExplorer</title>
+        <author>
+            <name>Knut Büttner</name>
+        </author>
+        <link href="https://cssbue.github.io/MathExplorerPages/elementare-steuerbefehle-im-mathexplorer.html"/>
+        <id>https://cssbue.github.io/MathExplorerPages/elementare-steuerbefehle-im-mathexplorer.html</id>
+            <category term="MathExplorer"/>
+
+        <updated>2021-10-31T21:55:31+01:00</updated>
+            <summary>
+                <![CDATA[
+                    TAB: Wandert zwischen Schaltern und Textfeldern In der Ansicht “Rechner”: Für die folgenden Beispiele gilt: Die Eingaben beziehen sich auf ein leeres, fokussiertes Eingabefeld mit Schreibmarke (STRG+ALT+i). Alle Eingaben müssen mit ENTER abgeschlossen werden. Bei Ein- und Ausgaben wird von folgenden Einstellungen ausgegangen: Signifikante Stellenzahl:&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>TAB:    Wandert zwischen Schaltern und Textfeldern</p>
+<p>In der Ansicht “Rechner”:</p>
 <ul>
-<li>Stift und Finger Erkennung, mindestens 10 Eingaben simultan möglich</li>
-<li>Signal Weiterleitung (HDMI, USB) der Eingaben an einen externen PC (Windows 10)</li>
-<li><strong>MiraCast – Kompatibilität notwendig</strong></li>
-<li>Test2</li>
+<li>ALT+i:    Schreibmarke ins Eingabefeld (Input)</li>
+<li>ALT+o:    Schreibmarke ins Ausgabefeld (Output)</li>
+<li>STRG+ALT+i:    Eingabefeld (Input) löschen</li>
+<li>STRG+ALT+o:    Ausgabefeld (Output) öschen </li>
+<li>STRG+ALT+m:    Speicher (Memory) löschen </li>
+<li>STRG+ALT+h:    Verlauf (History) löschen </li>
+<li>STRG+ALT+a:    alles löschen </li>
+</ul>
+<p>Für die folgenden Beispiele gilt:</p>
+<ul>
+<li>Die Eingaben beziehen sich auf ein leeres, fokussiertes Eingabefeld mit Schreibmarke (STRG+ALT+i). </li>
+<li>Alle Eingaben müssen mit ENTER abgeschlossen werden.</li>
+<li>Bei Ein- und Ausgaben wird von folgenden Einstellungen ausgegangen:</li>
+<li>Signifikante Stellenzahl: 6, Eingabemodus: Einfach, </li>
+<li>Spracheinstellungen: alle Deutsch (Dezimalkomma)</li>
+<li>Trennzeichen für Funktionsparameter ist das Semikolon (;) .</li>
+<li>Der Inhalt eines fokussierten Ein- bzw. Ausgabefeldes kann mit STRG+a markiert und mit STRG+c in die Zwischenablage kopiert werden.</li>
+<li>In ein fokussiertes Eingabefeld kann mit STRG+v der Inhalt der Zwischenablage eingefügt werden.</li>
 </ul>
 
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Polynomfunktion 3. Grades</title>
-        <author>
-            <name>Knut Büttner</name>
-        </author>
-        <link href="https://cssbue.github.io/MathExplorerPages/polynomfunktion-3-grades.html"/>
-        <id>https://cssbue.github.io/MathExplorerPages/polynomfunktion-3-grades.html</id>
-
-        <updated>2021-10-30T00:54:26+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Achtung, was passiert hier? # Testüberschrift 😀 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="msg msg--warning">Achtung, was passiert hier?</p>
-<p class="msg msg--warning"># Testüberschrift</p>
-<p>😀</p>
-<p> </p>
-<p> </p>
-<p> </p>
             ]]>
         </content>
     </entry>
