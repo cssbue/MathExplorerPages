@@ -5,11 +5,24 @@
     "home_page_url": "https://cssbue.github.io/MathExplorerPages",
     "feed_url": "https://cssbue.github.io/MathExplorerPages/feed.json",
     "user_comment": "",
-    "icon": "https://cssbue.github.io/MathExplorerPages/media/website/logo1.png",
     "author": {
         "name": "Knut Büttner"
     },
     "items": [
+        {
+            "id": "https://cssbue.github.io/MathExplorerPages/inhaltsverzeichis.html",
+            "url": "https://cssbue.github.io/MathExplorerPages/inhaltsverzeichis.html",
+            "title": "Inhaltsverzeichis",
+            "summary": "<p class=\"msg msg--success\">Das ist ein Erfolg.</p>\n<pre>Wofür ist Pre?<br><br></pre>\n<hr>",
+            "content_html": "<p class=\"msg msg--success\">Das ist ein Erfolg.</p>\n<pre>Wofür ist Pre?<br><br></pre>\n<hr>\n<p><span style=\"color: #f1c40f;\">Hier geht  es weiter.</span></p>\n<p>🤩</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Knut Büttner"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-11-03T16:25:41+01:00",
+            "date_modified": "2021-11-03T16:25:41+01:00"
+        },
         {
             "id": "https://cssbue.github.io/MathExplorerPages/der-betrag-eines-vektors.html",
             "url": "https://cssbue.github.io/MathExplorerPages/der-betrag-eines-vektors.html",

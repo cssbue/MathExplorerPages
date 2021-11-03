@@ -3,12 +3,47 @@
     <title>MathExplorer Documentation</title>
     <link href="https://cssbue.github.io/MathExplorerPages/feed.xml" rel="self" />
     <link href="https://cssbue.github.io/MathExplorerPages" />
-    <updated>2021-10-31T22:01:45+01:00</updated>
+    <updated>2021-11-03T16:25:41+01:00</updated>
     <author>
         <name>Knut Büttner</name>
     </author>
     <id>https://cssbue.github.io/MathExplorerPages</id>
 
+    <entry>
+        <title>Inhaltsverzeichis</title>
+        <author>
+            <name>Knut Büttner</name>
+        </author>
+        <link href="https://cssbue.github.io/MathExplorerPages/inhaltsverzeichis.html"/>
+        <id>https://cssbue.github.io/MathExplorerPages/inhaltsverzeichis.html</id>
+
+        <updated>2021-11-03T16:25:41+01:00</updated>
+            <summary>
+                <![CDATA[
+                    <p class="msg msg--success">Das ist ein Erfolg.</p>
+<pre>Wofür ist Pre?<br><br></pre>
+<hr>
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--success">Das ist ein Erfolg.</p>
+<pre>Wofür ist Pre?<br><br></pre>
+<hr>
+<p><span style="color: #f1c40f;">Hier geht  es weiter.</span></p>
+<p>🤩</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title> Der Betrag eines Vektors</title>
         <author>
